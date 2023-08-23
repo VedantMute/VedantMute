@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @VedantMute
-- 👀 I’m interested in Front End Web Development, Python, and Data Structures and Algorithm
-- 🌱 I’m currently doing Engineering
-- 📫 How to reach me ..... on twitter
+
 <h1 align="center">Hi 👋, I'm Vedant</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
