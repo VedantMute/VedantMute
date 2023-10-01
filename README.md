@@ -1,10 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Vedant</h1>
-<h3 align="center">A passionate ReactJS frontend developer</h3>
+<h3 align="center">A passionate ReactJS frontend developer and Data Analyst</h3>
 
-- 🌱 I’m currently learning **React, Java.**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, REACTJS, Python, Java and MySQL**
+- 💬 Ask me about **REACTJS, Python, Java, Data Analysis and MySQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
