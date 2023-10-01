@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, Java.**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Java and MySQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, REACTJS, Python, Java and MySQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
